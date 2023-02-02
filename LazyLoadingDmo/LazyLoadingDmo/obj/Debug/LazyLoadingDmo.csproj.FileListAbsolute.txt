@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\bin\Debug\LazyLoadingDmo.exe.config
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\bin\Debug\LazyLoadingDmo.exe
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\bin\Debug\LazyLoadingDmo.pdb
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\obj\Debug\LazyLoadingDmo.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\obj\Debug\LazyLoadingDmo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\obj\Debug\LazyLoadingDmo.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\obj\Debug\LazyLoadingDmo.exe
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\obj\Debug\LazyLoadingDmo.pdb
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\obj\Debug\LazyLoadingDmo.csproj.CopyComplete
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\obj\Debug\LazyLoadingDmo.Migrations.initial.resources
+C:\Users\Nimap\New folder\LazyLoadingDmo\LazyLoadingDmo\obj\Debug\LazyLoadingDmo.csproj.GenerateResource.cache

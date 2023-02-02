@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\Debugg.exe
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\Debugg.deps.json
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\Debugg.runtimeconfig.json
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\Debugg.dll
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\Debugg.pdb
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\Debugg.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\Debugg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\Debugg.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\Debugg.AssemblyInfo.cs
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\Debugg.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\Debugg.dll
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\refint\Debugg.dll
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\Debugg.pdb
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\Debugg.genruntimeconfig.cache
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\ref\Debugg.dll

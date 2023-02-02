@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\bin\Debug\net6.0\ThreadSafe.exe
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\bin\Debug\net6.0\ThreadSafe.deps.json
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\bin\Debug\net6.0\ThreadSafe.runtimeconfig.json
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\bin\Debug\net6.0\ThreadSafe.dll
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\bin\Debug\net6.0\ThreadSafe.pdb
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\ThreadSafe.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\ThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\ThreadSafe.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\ThreadSafe.AssemblyInfo.cs
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\ThreadSafe.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\ThreadSafe.dll
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\refint\ThreadSafe.dll
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\ThreadSafe.pdb
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\ThreadSafe.genruntimeconfig.cache
+C:\Users\Nimap\New folder\ThreadSafe\ThreadSafe\obj\Debug\net6.0\ref\ThreadSafe.dll

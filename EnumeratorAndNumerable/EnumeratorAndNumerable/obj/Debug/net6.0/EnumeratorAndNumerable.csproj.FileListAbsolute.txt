@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\bin\Debug\net6.0\EnumeratorAndNumerable.exe
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\bin\Debug\net6.0\EnumeratorAndNumerable.deps.json
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\bin\Debug\net6.0\EnumeratorAndNumerable.runtimeconfig.json
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\bin\Debug\net6.0\EnumeratorAndNumerable.dll
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\bin\Debug\net6.0\EnumeratorAndNumerable.pdb
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\EnumeratorAndNumerable.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\EnumeratorAndNumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\EnumeratorAndNumerable.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\EnumeratorAndNumerable.AssemblyInfo.cs
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\EnumeratorAndNumerable.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\EnumeratorAndNumerable.dll
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\refint\EnumeratorAndNumerable.dll
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\EnumeratorAndNumerable.pdb
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\EnumeratorAndNumerable.genruntimeconfig.cache
+C:\Users\Nimap\New folder\EnumeratorAndNumerable\EnumeratorAndNumerable\obj\Debug\net6.0\ref\EnumeratorAndNumerable.dll

@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\bin\Debug\net6.0\ThreadTypes.exe
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\bin\Debug\net6.0\ThreadTypes.deps.json
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\bin\Debug\net6.0\ThreadTypes.runtimeconfig.json
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\bin\Debug\net6.0\ThreadTypes.dll
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\bin\Debug\net6.0\ThreadTypes.pdb
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\ThreadTypes.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\ThreadTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\ThreadTypes.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\ThreadTypes.AssemblyInfo.cs
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\ThreadTypes.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\ThreadTypes.dll
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\refint\ThreadTypes.dll
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\ThreadTypes.pdb
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\ThreadTypes.genruntimeconfig.cache
+C:\Users\Nimap\New folder\ThreadTypes\ThreadTypes\obj\Debug\net6.0\ref\ThreadTypes.dll

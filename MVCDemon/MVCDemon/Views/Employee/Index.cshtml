@@ -1,0 +1,78 @@
+﻿
+@{
+    Layout = null;
+
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @{
+            bool isTrue = true;
+            var i = 50;
+        }
+
+        @if (isTrue)
+        {
+            <h1>Bool in true</h1>
+        }
+
+        @if (i == 10)
+        {
+            <h2>True block</h2>
+        }
+        else if (i == 20)
+        {
+            <h2>20Block</h2>
+        }
+        else
+        {
+            <h2>else block</h2>
+        }
+        <h2>
+            @(i==2?"Condition is 2":"Condition is other")
+        </h2>
+    </div>
+    <div>
+        @{
+            var myList = new List<int> { 1, 2, 3, 4, 5, 6, 7 };
+        }
+
+        @{
+            foreach (var value in myList)
+            {
+                <h1>@value</h1>
+            }
+
+
+        }
+    </div>
+
+    <div>
+
+        @helper myListHelper(string[] str)
+        {
+            foreach (var data in str)
+            {
+                <h1>@data</h1>
+            }
+        }
+
+
+        <div>
+            @myListHelper(new string[] {"tom","json","jack"})
+
+        </div>
+
+
+    </div>
+
+</body>
+</html>

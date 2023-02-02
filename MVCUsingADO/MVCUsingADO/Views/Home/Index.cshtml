@@ -1,0 +1,35 @@
+﻿@model IEnumerable<MVCUsingADO.Models.Category>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<table class="table-striped">
+    <th>
+       
+        <td><h1>Category Name</h1></td>
+    </th>
+
+
+    @{
+        foreach (var item in Model)
+        {
+            <tr>
+                
+                <td>
+                    <h4>@item.CategoryName</h4>
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id })
+
+                </td>
+            </tr>
+
+            <br />
+
+        }
+    }
+</table>

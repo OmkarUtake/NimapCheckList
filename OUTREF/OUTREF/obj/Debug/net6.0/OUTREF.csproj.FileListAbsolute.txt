@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\OUTREF\OUTREF\bin\Debug\net6.0\OUTREF.exe
+C:\Users\Nimap\New folder\OUTREF\OUTREF\bin\Debug\net6.0\OUTREF.deps.json
+C:\Users\Nimap\New folder\OUTREF\OUTREF\bin\Debug\net6.0\OUTREF.runtimeconfig.json
+C:\Users\Nimap\New folder\OUTREF\OUTREF\bin\Debug\net6.0\OUTREF.dll
+C:\Users\Nimap\New folder\OUTREF\OUTREF\bin\Debug\net6.0\OUTREF.pdb
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\OUTREF.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\OUTREF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\OUTREF.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\OUTREF.AssemblyInfo.cs
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\OUTREF.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\OUTREF.dll
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\refint\OUTREF.dll
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\OUTREF.pdb
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\OUTREF.genruntimeconfig.cache
+C:\Users\Nimap\New folder\OUTREF\OUTREF\obj\Debug\net6.0\ref\OUTREF.dll

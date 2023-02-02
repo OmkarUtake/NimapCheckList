@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\bin\Debug\net6.0\IndexersDemon.exe
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\bin\Debug\net6.0\IndexersDemon.deps.json
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\bin\Debug\net6.0\IndexersDemon.runtimeconfig.json
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\bin\Debug\net6.0\IndexersDemon.dll
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\bin\Debug\net6.0\IndexersDemon.pdb
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\IndexersDemon.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\IndexersDemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\IndexersDemon.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\IndexersDemon.AssemblyInfo.cs
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\IndexersDemon.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\IndexersDemon.dll
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\refint\IndexersDemon.dll
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\IndexersDemon.pdb
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\IndexersDemon.genruntimeconfig.cache
+C:\Users\Nimap\New folder\IndexersDemon\IndexersDemon\obj\Debug\net6.0\ref\IndexersDemon.dll

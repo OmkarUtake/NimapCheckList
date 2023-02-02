@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\Enum\Enum\bin\Debug\net6.0\random.exe
+C:\Users\Nimap\New folder\Enum\Enum\bin\Debug\net6.0\random.deps.json
+C:\Users\Nimap\New folder\Enum\Enum\bin\Debug\net6.0\random.runtimeconfig.json
+C:\Users\Nimap\New folder\Enum\Enum\bin\Debug\net6.0\random.dll
+C:\Users\Nimap\New folder\Enum\Enum\bin\Debug\net6.0\random.pdb
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\random.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\random.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\random.AssemblyInfo.cs
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\random.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\random.dll
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\refint\random.dll
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\random.pdb
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\random.genruntimeconfig.cache
+C:\Users\Nimap\New folder\Enum\Enum\obj\Debug\net6.0\ref\random.dll

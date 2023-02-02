@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OUTREF", "OUTREF\OUTREF.csproj", "{AAAC100F-0588-4757-9469-1EE599FD8518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAC100F-0588-4757-9469-1EE599FD8518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAC100F-0588-4757-9469-1EE599FD8518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAC100F-0588-4757-9469-1EE599FD8518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAC100F-0588-4757-9469-1EE599FD8518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9F3E5ED-5171-4AC0-BFE6-FE118022FEB9}
+	EndGlobalSection
+EndGlobal

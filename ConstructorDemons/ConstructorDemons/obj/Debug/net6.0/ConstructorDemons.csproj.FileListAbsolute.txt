@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\bin\Debug\net6.0\ConstructorDemons.exe
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\bin\Debug\net6.0\ConstructorDemons.deps.json
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\bin\Debug\net6.0\ConstructorDemons.runtimeconfig.json
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\bin\Debug\net6.0\ConstructorDemons.dll
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\bin\Debug\net6.0\ConstructorDemons.pdb
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\ConstructorDemons.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\ConstructorDemons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\ConstructorDemons.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\ConstructorDemons.AssemblyInfo.cs
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\ConstructorDemons.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\ConstructorDemons.dll
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\refint\ConstructorDemons.dll
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\ConstructorDemons.pdb
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\ConstructorDemons.genruntimeconfig.cache
+C:\Users\Nimap\New folder\ConstructorDemons\ConstructorDemons\obj\Debug\net6.0\ref\ConstructorDemons.dll

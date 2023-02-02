@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\bin\Debug\net6.0\OutwithMultipleReturn.exe
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\bin\Debug\net6.0\OutwithMultipleReturn.deps.json
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\bin\Debug\net6.0\OutwithMultipleReturn.runtimeconfig.json
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\bin\Debug\net6.0\OutwithMultipleReturn.dll
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\bin\Debug\net6.0\OutwithMultipleReturn.pdb
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\OutwithMultipleReturn.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\OutwithMultipleReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\OutwithMultipleReturn.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\OutwithMultipleReturn.AssemblyInfo.cs
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\OutwithMultipleReturn.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\OutwithMultipleReturn.dll
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\refint\OutwithMultipleReturn.dll
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\OutwithMultipleReturn.pdb
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\OutwithMultipleReturn.genruntimeconfig.cache
+C:\Users\Nimap\New folder\OutwithMultipleReturn\OutwithMultipleReturn\obj\Debug\net6.0\ref\OutwithMultipleReturn.dll

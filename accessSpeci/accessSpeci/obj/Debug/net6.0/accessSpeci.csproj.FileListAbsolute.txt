@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\bin\Debug\net6.0\accessSpeci.exe
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\bin\Debug\net6.0\accessSpeci.deps.json
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\bin\Debug\net6.0\accessSpeci.runtimeconfig.json
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\bin\Debug\net6.0\accessSpeci.dll
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\bin\Debug\net6.0\accessSpeci.pdb
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\accessSpeci.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\accessSpeci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\accessSpeci.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\accessSpeci.AssemblyInfo.cs
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\accessSpeci.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\accessSpeci.dll
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\refint\accessSpeci.dll
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\accessSpeci.pdb
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\accessSpeci.genruntimeconfig.cache
+C:\Users\Nimap\New folder\accessSpeci\accessSpeci\obj\Debug\net6.0\ref\accessSpeci.dll

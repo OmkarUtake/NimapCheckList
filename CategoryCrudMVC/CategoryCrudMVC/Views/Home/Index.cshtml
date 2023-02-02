@@ -1,0 +1,60 @@
+﻿
+@model IEnumerable<CategoryCrudMVC.Models.AllData>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+<table class="table table-striped">
+
+
+    @{
+        <thead>
+            <tr>
+
+                <th scope="col">Category</th>
+                <th scope="col">Item</th>
+                <th scope="col">Description</th>
+                <th scope="col">Edit</th>
+            </tr>
+        </thead>
+    }
+
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>
+                @item.ctgr.categoryName
+            </td>
+            <td>
+                @item.itm.itemName
+            </td>
+            <td>
+                @item.itm.description
+            </td>
+            <td>
+
+                
+
+                <button type="button" class="btn btn-primary" onclick="window.location= '@Url.Action("Edit", "Home",new {id = item.itm.id})'">Edit</button>
+                <button type="button" class="btn btn-primary" onclick="window.location= '@Url.Action("Delete", "Home",new {id = item.itm.id})'">Delete</button>
+            </td>
+        </tr>
+
+    }
+
+
+
+</table>

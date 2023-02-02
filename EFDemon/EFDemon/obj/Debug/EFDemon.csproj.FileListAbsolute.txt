@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\EFDemon\EFDemon\bin\Debug\EFDemon.exe.config
+C:\Users\Nimap\New folder\EFDemon\EFDemon\bin\Debug\EFDemon.exe
+C:\Users\Nimap\New folder\EFDemon\EFDemon\bin\Debug\EFDemon.pdb
+C:\Users\Nimap\New folder\EFDemon\EFDemon\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\New folder\EFDemon\EFDemon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\New folder\EFDemon\EFDemon\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\New folder\EFDemon\EFDemon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\New folder\EFDemon\EFDemon\obj\Debug\EFDemon.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\EFDemon\EFDemon\obj\Debug\EFDemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\New folder\EFDemon\EFDemon\obj\Debug\EFDemon.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\EFDemon\EFDemon\obj\Debug\EFDemon.csproj.CopyComplete
+C:\Users\Nimap\New folder\EFDemon\EFDemon\obj\Debug\EFDemon.exe
+C:\Users\Nimap\New folder\EFDemon\EFDemon\obj\Debug\EFDemon.pdb
+C:\Users\Nimap\New folder\EFDemon\EFDemon\obj\Debug\EFDemon.Migrations.createPost.resources
+C:\Users\Nimap\New folder\EFDemon\EFDemon\obj\Debug\EFDemon.csproj.GenerateResource.cache

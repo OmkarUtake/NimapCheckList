@@ -1,0 +1,30 @@
+﻿@model DatabaseConnction.Models.Employee
+@{
+    ViewBag.Title = "Form";
+}
+
+<h2>Form</h2>
+<div>
+    @using (Html.BeginForm())
+    {
+        @Html.TextBoxFor(x => x.id)
+        <br />
+        <br />
+
+        @Html.TextBoxFor(x => x.name)
+        <br />
+        <br />
+
+        @Html.TextBoxFor(x => x.age)
+        <br />
+        <br />
+
+        @Html.TextBoxFor(x => x.city)
+
+
+        <input type="Submit" value="Click to Submit"/>
+    }
+
+
+
+</div>

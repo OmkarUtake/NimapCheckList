@@ -1,0 +1,17 @@
+C:\Users\Nimap\New folder\List\List\bin\Debug\net6.0\List.exe
+C:\Users\Nimap\New folder\List\List\bin\Debug\net6.0\List.deps.json
+C:\Users\Nimap\New folder\List\List\bin\Debug\net6.0\List.runtimeconfig.json
+C:\Users\Nimap\New folder\List\List\bin\Debug\net6.0\List.dll
+C:\Users\Nimap\New folder\List\List\bin\Debug\net6.0\List.pdb
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\List.dll
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\refint\List.dll
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\List.pdb
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\List.genruntimeconfig.cache
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\ref\List.dll
+C:\Users\Nimap\New folder\List\List\bin\Debug\net6.0\Xamarin.Essentials.dll
+C:\Users\Nimap\New folder\List\List\obj\Debug\net6.0\List.csproj.CopyComplete

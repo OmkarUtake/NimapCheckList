@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\bin\Debug\net6.0\DiamondProblem.exe
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\bin\Debug\net6.0\DiamondProblem.deps.json
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\bin\Debug\net6.0\DiamondProblem.runtimeconfig.json
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\bin\Debug\net6.0\DiamondProblem.dll
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\bin\Debug\net6.0\DiamondProblem.pdb
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\DiamondProblem.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\DiamondProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\DiamondProblem.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\DiamondProblem.AssemblyInfo.cs
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\DiamondProblem.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\DiamondProblem.dll
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\refint\DiamondProblem.dll
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\DiamondProblem.pdb
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\DiamondProblem.genruntimeconfig.cache
+C:\Users\Nimap\New folder\DiamondProblem\DiamondProblem\obj\Debug\net6.0\ref\DiamondProblem.dll

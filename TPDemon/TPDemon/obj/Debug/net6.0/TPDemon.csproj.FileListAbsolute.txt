@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\TPDemon\TPDemon\bin\Debug\net6.0\TPDemon.exe
+C:\Users\Nimap\New folder\TPDemon\TPDemon\bin\Debug\net6.0\TPDemon.deps.json
+C:\Users\Nimap\New folder\TPDemon\TPDemon\bin\Debug\net6.0\TPDemon.runtimeconfig.json
+C:\Users\Nimap\New folder\TPDemon\TPDemon\bin\Debug\net6.0\TPDemon.dll
+C:\Users\Nimap\New folder\TPDemon\TPDemon\bin\Debug\net6.0\TPDemon.pdb
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\TPDemon.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\TPDemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\TPDemon.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\TPDemon.AssemblyInfo.cs
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\TPDemon.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\TPDemon.dll
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\refint\TPDemon.dll
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\TPDemon.pdb
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\TPDemon.genruntimeconfig.cache
+C:\Users\Nimap\New folder\TPDemon\TPDemon\obj\Debug\net6.0\ref\TPDemon.dll

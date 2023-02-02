@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\diffVariables\diffVariables\bin\Debug\net6.0\diffVariables.exe
+C:\Users\Nimap\New folder\diffVariables\diffVariables\bin\Debug\net6.0\diffVariables.deps.json
+C:\Users\Nimap\New folder\diffVariables\diffVariables\bin\Debug\net6.0\diffVariables.runtimeconfig.json
+C:\Users\Nimap\New folder\diffVariables\diffVariables\bin\Debug\net6.0\diffVariables.dll
+C:\Users\Nimap\New folder\diffVariables\diffVariables\bin\Debug\net6.0\diffVariables.pdb
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\diffVariables.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\diffVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\diffVariables.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\diffVariables.AssemblyInfo.cs
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\diffVariables.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\diffVariables.dll
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\refint\diffVariables.dll
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\diffVariables.pdb
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\diffVariables.genruntimeconfig.cache
+C:\Users\Nimap\New folder\diffVariables\diffVariables\obj\Debug\net6.0\ref\diffVariables.dll

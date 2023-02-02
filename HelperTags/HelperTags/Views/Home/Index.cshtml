@@ -1,0 +1,43 @@
+﻿@model HelperTags.Models.Students
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (@Html.BeginForm("MyForm"))
+        {
+            @Html.ValidationSummary();
+
+
+            @Html.LabelFor(x => x.id, "ID")
+            @Html.TextBoxFor(x => x.id)
+            // @Html.ValidationMessageFor(x => x.id)
+            <br />
+            <br />
+            @Html.LabelFor(x => x.name, "Name: ")
+            @Html.TextBoxFor(x => x.name)
+            // @Html.ValidationMessageFor(x => x.name)
+
+            <br /><br />
+            @Html.LabelFor(x => x.pass, "Pass")
+            @Html.CheckBoxFor(x => x.pass)
+
+
+            <br />
+            <br />
+            @Html.LabelFor(x => x.Course, "Course")
+            @Html.TextBoxFor(x => x.Course)
+            // @Html.ValidationMessageFor(x => x.Course)
+
+            <input type="submit" value="Submite" />
+        }
+
+    </div>
+</body>
+</html>

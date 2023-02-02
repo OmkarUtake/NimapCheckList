@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\bin\Debug\net6.0\DelegatesDemon.exe
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\bin\Debug\net6.0\DelegatesDemon.deps.json
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\bin\Debug\net6.0\DelegatesDemon.runtimeconfig.json
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\bin\Debug\net6.0\DelegatesDemon.dll
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\bin\Debug\net6.0\DelegatesDemon.pdb
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\DelegatesDemon.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\DelegatesDemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\DelegatesDemon.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\DelegatesDemon.AssemblyInfo.cs
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\DelegatesDemon.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\DelegatesDemon.dll
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\refint\DelegatesDemon.dll
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\DelegatesDemon.pdb
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\DelegatesDemon.genruntimeconfig.cache
+C:\Users\Nimap\New folder\DelegatesDemon\DelegatesDemon\obj\Debug\net6.0\ref\DelegatesDemon.dll

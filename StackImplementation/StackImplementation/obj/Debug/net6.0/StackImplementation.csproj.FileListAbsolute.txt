@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\bin\Debug\net6.0\StackImplementation.exe
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\bin\Debug\net6.0\StackImplementation.deps.json
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\bin\Debug\net6.0\StackImplementation.runtimeconfig.json
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\bin\Debug\net6.0\StackImplementation.dll
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\bin\Debug\net6.0\StackImplementation.pdb
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\StackImplementation.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\StackImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\StackImplementation.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\StackImplementation.AssemblyInfo.cs
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\StackImplementation.dll
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\refint\StackImplementation.dll
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\StackImplementation.pdb
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\StackImplementation.genruntimeconfig.cache
+C:\Users\Nimap\New folder\StackImplementation\StackImplementation\obj\Debug\net6.0\ref\StackImplementation.dll

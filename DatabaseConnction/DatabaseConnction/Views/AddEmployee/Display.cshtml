@@ -1,0 +1,11 @@
+﻿@model IEnumerable<DatabaseConnction.Models.Employee>
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>View</h2>
+
+@foreach(var data in Model)
+{
+    @data.name
+}

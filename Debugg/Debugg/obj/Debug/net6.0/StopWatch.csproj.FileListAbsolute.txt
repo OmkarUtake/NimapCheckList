@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\StopWatch.exe
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\StopWatch.deps.json
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\StopWatch.runtimeconfig.json
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\StopWatch.dll
+C:\Users\Nimap\New folder\Debugg\Debugg\bin\Debug\net6.0\StopWatch.pdb
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\StopWatch.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\StopWatch.AssemblyInfo.cs
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\StopWatch.dll
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\refint\StopWatch.dll
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\StopWatch.pdb
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\StopWatch.genruntimeconfig.cache
+C:\Users\Nimap\New folder\Debugg\Debugg\obj\Debug\net6.0\ref\StopWatch.dll

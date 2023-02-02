@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\bin\Debug\net6.0\Builderdemo.exe
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\bin\Debug\net6.0\Builderdemo.deps.json
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\bin\Debug\net6.0\Builderdemo.runtimeconfig.json
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\bin\Debug\net6.0\Builderdemo.dll
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\bin\Debug\net6.0\Builderdemo.pdb
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\Builderdemo.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\Builderdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\Builderdemo.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\Builderdemo.AssemblyInfo.cs
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\Builderdemo.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\Builderdemo.dll
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\refint\Builderdemo.dll
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\Builderdemo.pdb
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\Builderdemo.genruntimeconfig.cache
+C:\Users\Nimap\New folder\Builderdemo\Builderdemo\obj\Debug\net6.0\ref\Builderdemo.dll

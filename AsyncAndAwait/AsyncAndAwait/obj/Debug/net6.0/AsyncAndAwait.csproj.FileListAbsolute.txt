@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.exe
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.deps.json
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.runtimeconfig.json
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.dll
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.pdb
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.AssemblyInfoInputs.cache
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.AssemblyInfo.cs
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.dll
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\refint\AsyncAndAwait.dll
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.pdb
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.genruntimeconfig.cache
+C:\Users\Nimap\New folder\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0\ref\AsyncAndAwait.dll

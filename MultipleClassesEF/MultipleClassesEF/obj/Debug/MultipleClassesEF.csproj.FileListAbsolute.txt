@@ -1,0 +1,15 @@
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\bin\Debug\MultipleClassesEF.exe.config
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\bin\Debug\MultipleClassesEF.exe
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\bin\Debug\MultipleClassesEF.pdb
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\obj\Debug\MultipleClassesEF.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\obj\Debug\MultipleClassesEF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\obj\Debug\MultipleClassesEF.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\obj\Debug\MultipleClassesEF.csproj.CopyComplete
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\obj\Debug\MultipleClassesEF.exe
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\obj\Debug\MultipleClassesEF.pdb
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\obj\Debug\MultipleClassesEF.Migrations.bookmodel.resources
+C:\Users\Nimap\New folder\MultipleClassesEF\MultipleClassesEF\obj\Debug\MultipleClassesEF.csproj.GenerateResource.cache
